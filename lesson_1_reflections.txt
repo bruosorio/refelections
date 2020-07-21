@@ -1,0 +1,19 @@
+ótimo para encontrar erros/diferenças em arquivo de muitas linhas
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+Podemos retomar ideias de um ponto de partida comum para eliminar um possível bug no meio do caminho.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+O git manual proprociona a separação lógica das alterações aumentando a acertividade da correção de futuros bugs. O ponto negativo é que se pode esquecer de fazer o commit nas alterações lógicas
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+Para controlar o relacionamento entre arquivos e versões nas suas versões autais. O google docs não interage com outros arquivos por isso não há necessidade.
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+git log par verificar o status reduzido do commit e git diff para verificar linha por linha do commit
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+Ter a segurança que a última versão do app esteja salvo e seguro
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+Para controlar meus projetos de modo seguro e não quebrar o código
