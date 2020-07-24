@@ -3,3 +3,12 @@ A pasta .git foi adicionada. É preciso criar o ponto inical do arquivo par cont
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 A área de preparação é o processo de cosntrução de grupos de arquivos para manter a lógica de elaboração/alteração por commit
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+fazendo comparação dos arquivos da área de preparação com o útlimo arquivo commitado pelo comando git diff --stage
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+Branches ajudam quando alguma nova funcionalidade deve ser desenvolvida em paralelo ao branch mestre. Isso mantém a versão original intacta enquanto a nova funcionalidade não fica pronta.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Podemos observar qual é posição do commit atual em relaçao aos outros branches 
